@@ -5,7 +5,9 @@ This is simple guide to how to use this binaries to update uboot for Cubietruck 
 Step:
 
 ./sdcard-fwbuild.sh
+
 ./sdcard-bless.sh /dev/sdx   (/dev/sdx is your target device )
+
 
 
 
